@@ -1,3 +1,15 @@
+## [Composer Check](https://github.com/gapple/drush-composercheck)
+
+Prevent execution of certain drush commands when project uses composer for dependency management 
+
+---
+
+| Drupal | Supported |
+|-------:|:---------:|
+|    7.x |     ✅    |
+|    8.x |     ✅    |
+
+
 ## [Filesync](https://github.com/gapple/drush-filesync)
 
 Sync file directories between environments
