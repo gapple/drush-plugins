@@ -1,9 +1,3 @@
----
-title: Drush Plugins by gapple
----
-
-# Drush Plugins by gapple
-
 ## [Filesync](https://github.com/gapple/drush-filesync)
 
 Sync file directories between environments
