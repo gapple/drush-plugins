@@ -4,7 +4,8 @@ Sync file directories between environments
 
     drush file-sync @source @destination
 
-  
+---
+
 | Drupal | Supported |
 |-------:|:---------:|
 |    7.x |     ✅    |
@@ -16,7 +17,8 @@ Re-execute a single module update hook
 
     drush update_rerun foo_module 7001
 
-  
+---
+
 | Drupal | Supported |
 |-------:|:---------:|
 |    7.x |     ✅    |
